@@ -26,6 +26,15 @@ format.py
 
 https://p.ip.fi/a1-O
 
+Run scraper.py
+and then
+skill.py for full data
+U can then convert json to exccel using this website https://conversiontools.io/convert/json-to-excel
+
+Thoda sa unformatted hai but in the nick of time it will make do
+
+and then format.py for csv
+
 ![image](https://user-images.githubusercontent.com/59202075/169376043-41591bcc-49e6-49ee-84ca-0dc2d3f79c78.png)
 
 this is how u should add a config.json to the same path as these files:-
