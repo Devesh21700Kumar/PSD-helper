@@ -26,9 +26,9 @@ format.py
 
 https://p.ip.fi/a1-O
 
-Run scraper.py
+Run scraper.py for pb.json (partial data)
 and then
-skill.py for full data
+skill.py for full data (with projects list)
 U can then convert json to exccel using this website https://conversiontools.io/convert/json-to-excel
 
 Thoda sa unformatted hai but in the nick of time it will make do
