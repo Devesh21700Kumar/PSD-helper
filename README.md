@@ -54,3 +54,17 @@ So get a dev or a friend who knows dev to just run these simple scripts
 
 and if u don't have a dev friend
 Then I feel really sad for u
+
+![image](https://user-images.githubusercontent.com/59202075/169527740-ecd533b0-8011-4842-b84e-2639f73cb00a.png)
+
+for those asking ki
+ab change kya hua kaise pata lagaye Fafa
+its quite simple
+partialpsd.csv download karo idhar se every 1 hour
+
+And use this to compare the newly downloaded file with the previously downloaded file
+https://www.textcompare.org/csv/compare/
+
+green means something new is added
+
+yellow means something is updated
