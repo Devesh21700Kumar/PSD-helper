@@ -68,3 +68,13 @@ https://www.textcompare.org/csv/compare/
 green means something new is added
 
 yellow means something is updated
+
+
+*Hosted and cronned by Sudhanshu bhaiya*
+
+https://smk.minetest.in/mypaste/?psd
+
+It shows the time of updation as well. Keep downloading the files and keep comparing using the above mentioned csv comparer.
+![image](https://user-images.githubusercontent.com/59202075/170722520-15e2ca33-b0cd-4fea-899e-9f0365b7f6a1.png)
+
+
