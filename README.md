@@ -20,7 +20,7 @@ https://p.ip.fi/ctKv
 
 skill.py
 
-https://p.ip.fi/1psv
+https://p.ip.fi/JZNn
 
 format.py
 
