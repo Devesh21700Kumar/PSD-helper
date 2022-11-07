@@ -39,11 +39,9 @@ for i in data:
                         temp.append(proj["projectTitle"])
                     except:
                         temp.append("-")
-
-    if(len(temp) > 3):
-        students.append(temp)
+    students.append(temp)
 print(students)
 
-with open("20-21sem1.csv", "w", newline="") as f:
+with open("DropTopBoy.csv", "w", newline="") as f:
     writer = csv.writer(f)
     writer.writerows(students)
