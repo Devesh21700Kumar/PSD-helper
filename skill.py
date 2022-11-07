@@ -20,7 +20,7 @@ for i in data:
     for j in i["projs"]:
         skill = list()
         skill1 = list()
-        if(j["BatchName"] == "2020-2021 / SEM-I"):
+        if(j["BatchName"] == "2022-2023 / SEM-2"):
             for proj in j["details"]:
                 try:
                     seat += proj['TotalReqdStudents']
