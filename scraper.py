@@ -12,6 +12,10 @@ import requests
 from urllib.parse import urljoin as join, quote
 from bs4 import BeautifulSoup
 import json
+import time
+import os
+from datetime import datetime
+from threading import Timer
 
 BASE_URL = "http://psd.bits-pilani.ac.in"
 STUDENT_URL = join(BASE_URL, 'Student/')
@@ -150,11 +154,20 @@ def parse_resp(resp):
                             .encode()
                             .decode('unicode-escape')))
 
+def exitfunc():
+    print("Exit Time", datetime.now())
+    os._exit(0)
+
 
 def main():
     if not login():
+        print("Failed to login into check credentials")
         return
+    print("Logged in successfully")
+    print("Trying to fetch data...")
+    Timer(20*60,exitfunc).start()
     full = fetch_full_details()
+    print("smk----")
     with open('strings.json', 'w') as f:
         json.dump(full, f, indent=4)
     print(fetch_prefs())
