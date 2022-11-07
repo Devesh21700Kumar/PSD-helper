@@ -20,7 +20,7 @@ https://p.ip.fi/ctKv
 
 skill.py
 
-https://p.ip.fi/1psv
+https://p.ip.fi/JZNn
 
 format.py
 
@@ -54,3 +54,27 @@ So get a dev or a friend who knows dev to just run these simple scripts
 
 and if u don't have a dev friend
 Then I feel really sad for u
+
+![image](https://user-images.githubusercontent.com/59202075/169527740-ecd533b0-8011-4842-b84e-2639f73cb00a.png)
+
+for those asking ki
+ab change kya hua kaise pata lagaye Fafa
+its quite simple
+partialpsd.csv download karo idhar se every 1 hour
+
+And use this to compare the newly downloaded file with the previously downloaded file
+https://www.textcompare.org/csv/compare/
+
+green means something new is added
+
+yellow means something is updated
+
+
+*Hosted and cronned by Sudhanshu bhaiya*
+
+https://smk.minetest.in/mypaste/?psd
+
+It shows the time of updation as well. Keep downloading the files and keep comparing using the above mentioned csv comparer.
+![image](https://user-images.githubusercontent.com/59202075/170722520-15e2ca33-b0cd-4fea-899e-9f0365b7f6a1.png)
+
+
