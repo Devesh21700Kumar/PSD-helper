@@ -25,8 +25,9 @@ https://p.ip.fi/JZNn
 format.py
 
 https://p.ip.fi/a1-O
+ U need to install requests and BeautifulSoup libraries using pip
 
-Run scraper.py for pb.json (partial data)
+Run scraper.py for pb.json and strings.json(partial data)
 and then
 skill.py for full data (with projects list)
 U can then convert json to exccel using this website https://conversiontools.io/convert/json-to-excel
@@ -44,6 +45,7 @@ this is how u should add a config.json to the same path as these files:-
 			"password": "USE_YOUR_CREDS"
 		}
 }
+
 
 ![image](https://user-images.githubusercontent.com/59202075/169376089-23f61705-2f3b-40dd-aee4-e6c689435541.png)
 
